@@ -42,7 +42,7 @@ global.buruan = {
    kelinci: 5,
    domba: 5,
    sapi: 5,
-   gajah: 5
+   gajah: 5 
 }
 global.rpg = {
    darahawal: 100,
